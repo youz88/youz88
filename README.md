@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const Joe = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [
+    React, React Native, VueJS,
+    Expressjs,
+    Storybook, Styled-Components,
+    Leancloud, Cloudbase, Firebase, Qiniu,
+  ],
+  learning: [
+    Flutter, Swift,
+  ],
+  contact: "Jeodiong@hotmail.com",
+}
