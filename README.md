@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
 const Joe = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
@@ -26,5 +27,18 @@ const Joe = {
   learning: [
     Flutter, Swift,
   ],
-  contact: "Jeodiong@hotmail.com",
+  contact: "yz7276@163.com",
 }
+```
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=youz88&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=youz88">
+</p>
+
+## Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=MediaTool&theme=shades-of-purple)](https://github.com/youz88/MediaTool)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=yangyu&theme=default_repocard)](https://github.com/youz88/yangyu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=tudou&theme=default_repocard)](https://github.com/youz88/tudou)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=yangyu-ui&theme=default_repocard)](https://github.com/youz88/yangyu-ui)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=tudou-ui&theme=default_repocard)](https://github.com/youz88/tudou-ui)
