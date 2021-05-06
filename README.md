@@ -37,8 +37,8 @@ const Joe = {
 
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=MediaTool&theme=shades-of-purple)](https://github.com/youz88/MediaTool)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=yangyu&theme=default_repocard)](https://github.com/youz88/yangyu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=tudou&theme=default_repocard)](https://github.com/youz88/tudou)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=MediaTool&theme=default_repocard)](https://github.com/youz88/MediaTool)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=yangyu-ui&theme=default_repocard)](https://github.com/youz88/yangyu-ui)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=youz88&repo=tudou-ui&theme=default_repocard)](https://github.com/youz88/tudou-ui)
